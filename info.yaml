@@ -5,3 +5,11 @@ project:
   description: "FSM de dos canciones con lógica Mealy y Moore"
   language: "verilog"
   github: "https://github.com/LindaPantaleon/Examen-final" 
+pinout:
+  clk: PIN_A1
+  rst: PIN_A2
+  io_in[0]: PIN_B1   # C1
+  io_in[1]: PIN_B2   # C2
+  io_in[2]: PIN_B3   # I
+  io_out[0]: PIN_C1  # Ca[0]
+  io_out[1]: PIN_C2  # Ca[1]
