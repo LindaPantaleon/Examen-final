@@ -5,7 +5,7 @@ project:
   description: "FSM de dos canciones con lógica Mealy y Moore"
   language: "verilog"
   github: "https://github.com/LindaPantaleon/Examen-final"
-   tiles:
+  tiles:
     - name: top_fsm
       file: top_fsm.v
       type: module
