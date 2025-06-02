@@ -4,7 +4,12 @@ project:
   author: "Linda Pantaleón"
   description: "FSM de dos canciones con lógica Mealy y Moore"
   language: "verilog"
-  github: "https://github.com/LindaPantaleon/Examen-final" 
+  github: "https://github.com/LindaPantaleon/Examen-final"
+   tiles:
+    - name: top_fsm
+      file: top_fsm.v
+      type: module
+      language: verilog
 pinout:
   clk: PIN_A1
   rst: PIN_A2
