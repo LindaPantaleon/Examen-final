@@ -7,7 +7,7 @@ project:
   language: "verilog"
   github: "https://github.com/LindaPantaleon/Examen-final"
   tiles: 1x2
-  top_module: "top_fsm" 
+  top_module: "tt_um_top_fsm" 
 pinout:
   clk: PIN_A1
   rst: PIN_A2
