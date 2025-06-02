@@ -1,4 +1,5 @@
 project:
+  yaml_version: 6
   name: "fsm"
   author: "Linda Pantaleón"
   description: "FSM de dos canciones con lógica Mealy y Moore"
